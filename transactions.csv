@@ -1,0 +1,6 @@
+Date,Description,Currency,Amount,Type,Tags,Account,Status,Memo,IOU
+2018-09-28,Caj,EUR,-2,Expense,Drinks,"Denarnica",Cleared,
+2018-09-26,Srecke,EUR,8,Income,Gambling,"Denarnica",Cleared,
+2018-09-24,Mobitel,EUR,-23.17,Expense,Communication,"Tekoci racun NLB",Cleared,
+2018-09-24,"iPhone obrok",EUR,-25.5,Expense,Communication,"Tekoci racun NLB",Cleared,
+2018-09-24,Bencin,EUR,-58.01,Expense,"Avto / Bencin","Tekoci racun NLB",Cleared,
